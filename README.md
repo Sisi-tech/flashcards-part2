@@ -24,6 +24,9 @@
 ## Video Walkthrough
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9316f33873fc4b29bc91d8a16dbed29f-with-play.gif">
 
+## GIF 
+https://submissions.us-east-1.linodeobjects.com/web102/qf7gIsrn.gif
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
