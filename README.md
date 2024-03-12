@@ -14,7 +14,7 @@
 <ul>
   <li>- [x] A shuffle button is used to randomize the order of the cards</li>
   <li>- [x] A user's answer may be counted as correct even when it is slightly different from the target answer</li>
-  <li>- [ ] A counter displays the user's current and longest streak of correct responses</li>
+  <li>- [x] A counter displays the user's current and longest streak of correct responses</li>
   <li>- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards</li>
 </ul>
 <h2>The following **additional** features are implemented:</h2>
