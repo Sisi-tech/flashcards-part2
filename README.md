@@ -21,3 +21,5 @@
 <ul>
   <li>* [ ] List anything else that you added to improve the site's functionality!</li>
 </ul>
+## Video Walkthrough
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9316f33873fc4b29bc91d8a16dbed29f-with-play.gif">
